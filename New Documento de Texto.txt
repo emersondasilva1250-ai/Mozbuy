@@ -44,7 +44,7 @@
 
         <div class="step" id="step1">
             <h2>Que nota você dá à Coca-Cola? 🥤</h2>
-            <img src="https://quiiz.dadinho.shop/images/3go.png" class="quiz-img">
+            <img src="https://mozbuy.vercel.app/images/3go.png" class="quiz-img">
             <div class="options-list">
                 <div class="option-item" onclick="nextStep(2, 66.89)">Nota 10 <span>🤩</span></div>
                 <div class="option-item" onclick="nextStep(2, 66.89)">Nota 5 <span>😐</span></div>
@@ -53,7 +53,7 @@
 
         <div class="step" id="step2">
             <h2>Gostou desta imagem do KFC? 🍗</h2>
-            <img src="https://quiiz.dadinho.shop/images/4go.jpeg" class="quiz-img">
+            <img src="https://mozbuy.vercel.app/images/4go.jpeg" class="quiz-img">
             <div class="options-list">
                 <div class="option-item" onclick="nextStep(3, 111.39)">Amei! <span>😋</span></div>
                 <div class="option-item" onclick="nextStep(3, 111.39)">Ruim <span>👎</span></div>
@@ -62,7 +62,7 @@
 
         <div class="step" id="step3">
             <h2>Compraria este serviço? 🛍️</h2>
-            <img src="https://quiiz.dadinho.shop/images/5go.jpeg" class="quiz-img">
+            <img src="https://mozbuy.vercel.app/images/5go.jpeg" class="quiz-img">
             <div class="options-list">
                 <div class="option-item" onclick="nextStep(4, 155.89)">Sim <span>✅</span></div>
                 <div class="option-item" onclick="nextStep(4, 155.89)">Não <span>❌</span></div>
@@ -71,7 +71,7 @@
 
         <div class="step" id="step4">
             <h2>Onde deseja receber o valor? 📱</h2>
-            <img src="https://quiiz.dadinho.shop/images/3go%20%281%29.png" class="quiz-img">
+            <img src="https://mozbuy.vercel.app/images/3go%20%281%29.png" class="quiz-img">
             <div class="options-list">
                 <div class="option-item" onclick="nextStep(5, 200.39)">Mpesa <span>🇲🇿</span></div>
                 <div class="option-item" onclick="nextStep(5, 200.39)">Emola <span>🍊</span></div>
@@ -81,7 +81,7 @@
         <div class="step" id="step5">
             <h2 style="color: var(--green);">SALDO: $ 200.39</h2>
             <div id="vsl-container">Carregando vídeo...</div>
-            <img src="https://page.dadinho.shop//images/Captura-de-Tela-2025-07-02-as-20.16.40.png" class="footer-img">
+            <img src="https://mozbuy.vercel.app/images/Captura-de-Tela-2025-07-02-as-20.16.40.png" class="footer-img">
         </div>
     </div>
 </div>
